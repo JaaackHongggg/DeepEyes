@@ -268,13 +268,10 @@ This project is released under [Apache licence](./LICENSE).
 ## Citation
 
 ```
-@article{zheng2025deepeyesincentivizingthinkingimages,
-    title={DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning}, 
-    author={Ziwei Zheng, Michael Yang, Jack Hong, Chenxiao Zhao, Guohai Xu, Le Yang, Chao Shen, Xing Yu},
-    year={2025},
-    eprint={2505.14362},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV},
-    url={https://arxiv.org/abs/2505.14362}, 
+@article{zheng2025deepeyes,
+  title={DeepEyes: Incentivizing" Thinking with Images" via Reinforcement Learning},
+  author={Zheng, Ziwei and Yang, Michael and Hong, Jack and Zhao, Chenxiao and Xu, Guohai and Yang, Le and Shen, Chao and Yu, Xing},
+  journal={arXiv preprint arXiv:2505.14362},
+  year={2025}
 }
 ```
