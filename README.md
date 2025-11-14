@@ -22,6 +22,10 @@
 
 *\* Logo inspired by oracle bone character "eye".*
 
+## 🔥 Updates
+- [2025/11/10] We have released DeepEyesV2, an agentic multimodal model, which combine code execution and search together. See [DeepEyesV2](https://github.com/Visual-Agent/DeepEyesV2) for more information.
+
+
 ## DeepEyes
 Quote from [https://openai.com/index/thinking-with-images/](https://openai.com/index/thinking-with-images/)
 > They don’t just see an image, they can integrate visual information directly into the reasoning chain.
@@ -268,6 +272,14 @@ This project is released under [Apache licence](./LICENSE).
 ## Citation
 
 ```
+# DeepEyesV2
+@article{hong2025deepeyesv2,
+  title={DeepEyesV2: Toward Agentic Multimodal Model},
+  author={Hong, Jack and Zhao, Chenxiao and Zhu, ChengLin and Lu, Weiheng and Xu, Guohai and Yu, Xing},
+  journal={arXiv preprint arXiv:2511.05271},
+  year={2025}
+}
+# DeepEyes
 @article{zheng2025deepeyes,
   title={DeepEyes: Incentivizing" Thinking with Images" via Reinforcement Learning},
   author={Zheng, Ziwei and Yang, Michael and Hong, Jack and Zhao, Chenxiao and Xu, Guohai and Yang, Le and Shen, Chao and Yu, Xing},
